@@ -70,3 +70,38 @@ for (let i = 0, len = revealDelayElements.length; i < len; i++) {
 
 window.addEventListener("scroll", reveal);
 window.addEventListener("load", reveal);
+document.getElementById('scrollLink1').addEventListener('click', function(event) {
+  // Get the target section element
+  var targetSection = document.getElementById('section_about');
+
+  // Scroll to the target section
+  targetSection.scrollIntoView({ behavior: 'smooth' });
+
+  // Optionally prevent the default anchor behavior
+  // (prevent the URL from changing to "#" in the address bar)
+  event.preventDefault();
+});
+
+document.getElementById('scrollLink2').addEventListener('click', function(event) {
+  // Get the target section element
+  var targetSection = document.getElementById('section_projects');
+
+  // Scroll to the target section
+  targetSection.scrollIntoView({ behavior: 'smooth' });
+
+  // Optionally prevent the default anchor behavior
+  // (prevent the URL from changing to "#" in the address bar)
+  event.preventDefault();
+});
+
+document.getElementById('scrollLink3').addEventListener('click', function(event) {
+  // Get the target section element
+  var targetSection = document.getElementById('section_contact');
+
+  // Scroll to the target section
+  targetSection.scrollIntoView({ behavior: 'smooth' });
+
+  // Optionally prevent the default anchor behavior
+  // (prevent the URL from changing to "#" in the address bar)
+  event.preventDefault();
+});
