@@ -23,11 +23,11 @@ Helping Hive is designed to bridge the gap between those eager to volunteer and 
 
 ## Features
 
-Event Management: NGOs and organizations can post upcoming events related to social service.
-Badges: Volunteers and organizations earn badges for their accomplishments, fostering a sense of achievement and recognition.
-Volunteer Streak: Volunteers can maintain service streaks, encouraging consistent participation and engagement.
-Maintenance of Volunteer Hours: Volunteers can log their community service hours, which are tracked and maintained on the platform.
-User Registration: Allows users to register and build their profiles, making it easier to track their volunteer activities and accomplishments.
+- Event Management: NGOs and organizations can post upcoming events related to social service.
+- Badges: Volunteers and organizations earn badges for their accomplishments, fostering a sense of achievement and recognition.
+- Volunteer Streak: Volunteers can maintain service streaks, encouraging consistent participation and engagement.
+- Maintenance of Volunteer Hours: Volunteers can log their community service hours, which are tracked and maintained on the platform.
+- User Registration: Allows users to register and build their profiles, making it easier to track their volunteer activities and accomplishments.
 
 ## Contributing
 
