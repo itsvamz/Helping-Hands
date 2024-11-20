@@ -1,14 +1,14 @@
-# Helping Hive
+# Helping Hands
 
 Helping Hive is a centralized platform designed to connect volunteers with NGOs and other related organizations, addressing the challenge of scattered volunteering opportunities. This platform not only makes it easier for individuals to find relevant volunteering opportunities but also keeps them engaged through gamified features like badges and streaks.
 
-Check out the site here: [Helping-Hive](https://itsvamz.github.io/Helping-Hive/)
+Check out the site here: [Helping-Hands](https://itsvamz.github.io/Helping-Hands/)
 
 ## Problem Statement
 
-- Lack of Centralized Platform for Volunteering: Helping Hive solves the problem of scattered opportunities by centralizing volunteering options, creating a one-stop platform for a diverse range of social causes.
+- Lack of Centralized Platform for Volunteering: Helping Hands solves the problem of scattered opportunities by centralizing volunteering options, creating a one-stop platform for a diverse range of social causes.
 - Difficulty in Finding Relevant Volunteering Opportunities: Many potential volunteers face challenges in discovering opportunities that resonate with their values and skills. Helping Hive helps bridge this gap by providing a wide array of opportunities tailored to individual preferences.
-- Limited Engagement and Motivation for Users: Helping Hive introduces a gamified approach, including weekly streaks, badges, and recognition for top volunteers, to keep users motivated and engaged.
+- Limited Engagement and Motivation for Users: Helping Hands introduces a gamified approach, including weekly streaks, badges, and recognition for top volunteers, to keep users motivated and engaged.
 
 ## Target Audience
 
@@ -19,7 +19,7 @@ Corporate Teams: Interested in organizing community service events and CSR activ
 
 ## Overview
 
-Helping Hive is designed to bridge the gap between those eager to volunteer and the organizations that need their support. It is a user-friendly platform that aims to cultivate a culture of giving, engagement, and community involvement. The platform facilitates communication between users, NGOs, and organizations, strengthening the bonds within our communities. By providing a diverse range of volunteering opportunities tailored to preferences and skills, Helping Hive empowers individuals to make a difference.
+Helping Hands is designed to bridge the gap between those eager to volunteer and the organizations that need their support. It is a user-friendly platform that aims to cultivate a culture of giving, engagement, and community involvement. The platform facilitates communication between users, NGOs, and organizations, strengthening the bonds within our communities. By providing a diverse range of volunteering opportunities tailored to preferences and skills, Helping Hive empowers individuals to make a difference.
 
 ## Features
 
