@@ -35,7 +35,7 @@ I welcome contributions to Helping Hive! If you have any ideas, suggestions, or 
 
 ## License
 
-All rights reserved. - Vamika Mendiratta
+Distributed under the MIT License. See LICENSE for more information.
 
 
 
